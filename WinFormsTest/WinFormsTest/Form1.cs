@@ -15,14 +15,6 @@ namespace WinFormsTest
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void btn_displaylog_Click(object sender, EventArgs e)
-        {
-            //tb_logdetails.AppendText(Environment.MachineName);
-            //tb_logdetails.AppendText(Environment.UserName);
-            //tb_logdetails.AppendText(DateTime.Now.ToLongDateString());
-
             tb_logdetails.Text += Environment.MachineName + "\r\n";
             tb_logdetails.Text += Environment.UserName + "\r\n";
             tb_logdetails.Text += DateTime.Now.ToLongDateString() + "\r\n";
