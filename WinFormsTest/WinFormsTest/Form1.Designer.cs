@@ -36,27 +36,28 @@ namespace WinFormsTest
             // 
             // tb_logname
             // 
-            this.tb_logname.Location = new System.Drawing.Point(254, 185);
+            this.tb_logname.Location = new System.Drawing.Point(33, 12);
             this.tb_logname.Multiline = true;
             this.tb_logname.Name = "tb_logname";
             this.tb_logname.ReadOnly = true;
             this.tb_logname.Size = new System.Drawing.Size(100, 49);
             this.tb_logname.TabIndex = 0;
+            this.tb_logname.TabStop = false;
             this.tb_logname.Text = "Machine Name:\r\nUser:\r\nDate:";
             // 
             // tb_logdetails
             // 
             this.tb_logdetails.AcceptsReturn = true;
-            this.tb_logdetails.Location = new System.Drawing.Point(361, 185);
+            this.tb_logdetails.Location = new System.Drawing.Point(140, 12);
             this.tb_logdetails.Multiline = true;
             this.tb_logdetails.Name = "tb_logdetails";
             this.tb_logdetails.ReadOnly = true;
-            this.tb_logdetails.Size = new System.Drawing.Size(285, 49);
+            this.tb_logdetails.Size = new System.Drawing.Size(183, 49);
             this.tb_logdetails.TabIndex = 1;
             // 
             // btn_displaylog
             // 
-            this.btn_displaylog.Location = new System.Drawing.Point(288, 253);
+            this.btn_displaylog.Location = new System.Drawing.Point(67, 80);
             this.btn_displaylog.Name = "btn_displaylog";
             this.btn_displaylog.Size = new System.Drawing.Size(142, 23);
             this.btn_displaylog.TabIndex = 2;
@@ -68,7 +69,7 @@ namespace WinFormsTest
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(337, 119);
             this.Controls.Add(this.btn_displaylog);
             this.Controls.Add(this.tb_logdetails);
             this.Controls.Add(this.tb_logname);
