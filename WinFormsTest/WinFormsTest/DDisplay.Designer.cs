@@ -1,7 +1,7 @@
 ﻿
 namespace WinFormsTest
 {
-    partial class Form1
+    partial class DDisplay
     {
         /// <summary>
         /// Required designer variable.
@@ -29,6 +29,7 @@ namespace WinFormsTest
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DDisplay));
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -48,14 +49,15 @@ namespace WinFormsTest
             this.dataGridView1.TabIndex = 2;
             this.dataGridView1.TabStop = false;
             // 
-            // Form1
+            // DDisplay
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(327, 158);
             this.Controls.Add(this.dataGridView1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "DDisplay";
+            this.Text = "DDisplay";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 

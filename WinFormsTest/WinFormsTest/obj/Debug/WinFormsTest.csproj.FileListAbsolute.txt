@@ -12,9 +12,9 @@ C:\Users\zifoo\OneDrive\Desktop\ZF\Summer 2021\VS Projects\WinFormsTest\WinForms
 C:\Users\zifoo\OneDrive\Desktop\ZF\Summer 2021\VS Projects\WinFormsTest\WinFormsTest\bin\Debug\WinFormsTest.exe
 C:\Users\zifoo\OneDrive\Desktop\ZF\Summer 2021\VS Projects\WinFormsTest\WinFormsTest\bin\Debug\WinFormsTest.pdb
 C:\Users\zifoo\OneDrive\Desktop\ZF\Summer 2021\VS Projects\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.csproj.AssemblyReference.cache
-C:\Users\zifoo\OneDrive\Desktop\ZF\Summer 2021\VS Projects\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.Form1.resources
 C:\Users\zifoo\OneDrive\Desktop\ZF\Summer 2021\VS Projects\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.Properties.Resources.resources
 C:\Users\zifoo\OneDrive\Desktop\ZF\Summer 2021\VS Projects\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.csproj.GenerateResource.cache
 C:\Users\zifoo\OneDrive\Desktop\ZF\Summer 2021\VS Projects\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.csproj.CoreCompileInputs.cache
 C:\Users\zifoo\OneDrive\Desktop\ZF\Summer 2021\VS Projects\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.exe
 C:\Users\zifoo\OneDrive\Desktop\ZF\Summer 2021\VS Projects\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.pdb
+C:\Users\zifoo\OneDrive\Desktop\ZF\Summer 2021\VS Projects\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.DDisplay.resources

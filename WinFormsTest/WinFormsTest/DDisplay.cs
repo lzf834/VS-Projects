@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WinFormsTest
 {
-    public partial class Form1 : Form
+    public partial class DDisplay : Form
     {
-        public Form1()
+        public DDisplay()
         {
             InitializeComponent();
             //Using textbox
